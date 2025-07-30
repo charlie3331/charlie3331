@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Charlie 👨‍💻
+# 👋 ¡Hola! Soy Carlos Vicente 
 
-Soy estudiante de **Ingeniería en Computación** en la **Universidad Autónoma de Aguascalientes (UAA)**. Actualmente tengo 21 años y comencé mi carrera en **agosto de 2022**.
+Soy estudiante de "Ingeniería en Sistemas" en la Universidad Autónoma de Aguascalientes (UAA). Actualmente tengo 21 años y comencé mi carrera en Agosto de 2022.
 
 💻 Me apasiona el desarrollo de software y he trabajado con tecnologías como:
 - `C++`, `Java`
@@ -31,6 +31,6 @@ Soy estudiante de **Ingeniería en Computación** en la **Universidad Autónoma 
 
 ## 📫 Contacto
 
-- ✉️ charlie3331@example.com *(usa tu correo real si quieres que te contacten)*
+- ✉️ carlosvm12345678@gmail.com 
 - [LinkedIn](https://www.linkedin.com/in/charlie3331) *(si tienes)*
-- [Portafolio web](https://tuportafolio.com) *(opcional)*
+- Teléfono +524492294974
