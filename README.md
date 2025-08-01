@@ -29,14 +29,14 @@ Soy estudiante de **Ingeniería en Sistemas** en la Universidad Autónoma de Agu
 ### 🏋️ Sistema de gestión para gimnasio
 Aplicación web que permite iniciar sesión como usuario o administrador, agendar citas y gestionar servicios del gimnasio.
 
-[![Ver proyecto](https://img.shields.io/badge/Ver%20demo-GymApp-28a745?style=for-the-badge&logo=github)](https://tuproyecto1.github.io)
+[![Ver proyecto](https://img.shields.io/badge/Ver%20demo-GymApp-28a745?style=for-the-badge&logo=github)](https://charlie3331.github.io/GimnasioOnlineGROM)
 
 ---
 
 ### 📦 Sistema de etiquetado y reportes
 Aplicación que permite etiquetar cajas, almacenar datos y generar reportes automáticos para el control de inventario.
 
-[![Ver proyecto](https://img.shields.io/badge/Ver%20demo-LabelingApp-blue?style=for-the-badge&logo=github)](https://SUPERME.github.io)
+[![Ver proyecto](https://img.shields.io/badge/Ver%20demo-LabelingApp-blue?style=for-the-badge&logo=github)](https://charlie3331.github.io/SUPERME)
 
 ---
 
