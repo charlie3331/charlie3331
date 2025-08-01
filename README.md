@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://link-a-tu-imagen.jpg" alt="Carlos Vicente" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/charlie3331.png" alt="Carlos Vicente" width="150" style="border-radius: 50%;" />
 </p>
+
 
 # 👋 ¡Hola! Soy **Carlos Vicente**
 
