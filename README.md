@@ -1,14 +1,15 @@
-# 👋 ¡Hola! Soy Carlos Vicente 
+# 👋 ¡Hola! Soy Carlos Vicente
 
-Soy estudiante de "Ingeniería en Sistemas" en la Universidad Autónoma de Aguascalientes (UAA). Actualmente tengo 21 años y comencé mi carrera en Agosto de 2022.
+Soy estudiante de **Ingeniería en Sistemas** en la Universidad Autónoma de Aguascalientes (UAA), actualmente en formación desde agosto de 2022. Tengo 21 años y me apasiona el desarrollo de software, especialmente en el área web.
 
-💻 Me apasiona el desarrollo de software y he trabajado con tecnologías como:
+💻 He trabajado con tecnologías como:
 - `C++`, `Java`
 - `HTML`, `CSS`, `JavaScript`
 - `Angular`
 
-📚 Actualmente sigo aprendiendo y mejorando mis habilidades tanto en frontend como en backend.  
-🌐 Inglés: nivel intermedio (puedo leer documentación técnica y comunicarme de forma básica).
+📚 Actualmente continúo aprendiendo y fortaleciendo mis habilidades tanto en **frontend** como en **backend**, con interés en el desarrollo de aplicaciones funcionales, escalables y bien estructuradas.
+
+🌐 **Inglés:** Intermedio — capaz de leer documentación técnica y mantener comunicación básica en entornos profesionales.
 
 ---
 
@@ -23,6 +24,22 @@ Soy estudiante de "Ingeniería en Sistemas" en la Universidad Autónoma de Aguas
 
 ---
 
+## 🚀 Proyectos destacados
+
+### 🏋️ Sistema de gestión para gimnasio
+Aplicación web que permite iniciar sesión como usuario o administrador, agendar citas y gestionar servicios del gimnasio.
+
+[![Ver proyecto](https://img.shields.io/badge/Ver%20demo-GymApp-28a745?style=for-the-badge&logo=github)](https://tuproyecto1.github.io)
+
+---
+
+### 📦 Sistema de etiquetado y reportes
+Aplicación que permite etiquetar cajas, almacenar datos y generar reportes automáticos para el control de inventario.
+
+[![Ver proyecto](https://img.shields.io/badge/Ver%20demo-LabelingApp-blue?style=for-the-badge&logo=github)](https://SUPERME.github.io)
+
+---
+
 ## 📈 GitHub Stats
 
 ![charlie3331's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlie3331&show_icons=true&theme=dracula)
@@ -31,6 +48,9 @@ Soy estudiante de "Ingeniería en Sistemas" en la Universidad Autónoma de Aguas
 
 ## 📫 Contacto
 
-- ✉️ carlosvm12345678@gmail.com 
-- LinkedIn www.linkedin.com/in/carlos-vicente-29b215378 
-- Teléfono +524492294974
+- ✉️ **Correo:** hola@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario)  
+- 📱 **Teléfono:** +52 000 000 0000
+
+---
+
