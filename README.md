@@ -32,5 +32,5 @@ Soy estudiante de "Ingeniería en Sistemas" en la Universidad Autónoma de Aguas
 ## 📫 Contacto
 
 - ✉️ carlosvm12345678@gmail.com 
-- [LinkedIn](https://www.linkedin.com/in/charlie3331) *(si tienes)*
+- LinkedIn www.linkedin.com/in/carlos-vicente-29b215378 
 - Teléfono +524492294974
