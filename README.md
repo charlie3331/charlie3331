@@ -66,9 +66,9 @@ Aplicación que permite etiquetar cajas, almacenar datos y generar reportes auto
 
 ## 📫 Contacto
 
-- ✉️ **Correo:** hola@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario)  
-- 📱 **Teléfono:** +52 000 000 0000
+- ✉️ **Correo:** carlosvm12345678@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/carlos-vicente-29b215378
+- 📱 **Teléfono:** +52 449 229 4974
 
 </div>
 
